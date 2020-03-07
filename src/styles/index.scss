@@ -1,0 +1,10 @@
+body {
+  background: #f8f8f8;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif
+}
+
+.container {
+  display: grid;
+  grid-column-gap: 1em;
+  grid-row-gap: 1em;
+}
