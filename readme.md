@@ -1,6 +1,6 @@
-# Matt is so great!
+# Easily start using react with Sass
 
-A playground for git usage and hopefully an ever-evolving tech playground enshrining Matt.
+Spin up quickly with a slim React and Sass build.
 
 ## Getting Started
 
