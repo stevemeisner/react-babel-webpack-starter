@@ -1,4 +1,4 @@
-# Easily start using react with Sass
+# Easily start using React with Sass
 
 Spin up quickly with a slim React and Sass build.
 
@@ -6,9 +6,11 @@ Spin up quickly with a slim React and Sass build.
 
 Once you've cloned the repository, run `yarn` to install dependencies.
 
-Then run `yarn start` to get the project spun up.
+Then run `yarn start` to start it locally.
 
-Check the `package.json` file for other commands, and feel free to add your own.
+## Deployment
+
+`yarn build` puts a production ready build in the `/build` directory.
 
 ## Tools in use
 

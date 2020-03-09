@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "clean": "rimraf build",
-    "webpack": "NODE_ENV=production npm run clean && babel-node ./node_modules/webpack/bin/webpack",
+    "build": "NODE_ENV=production npm run clean && babel-node ./node_modules/webpack/bin/webpack",
     "start": "babel-node ./node_modules/webpack-dev-server/bin/webpack-dev-server --open"
   },
   "devDependencies": {
